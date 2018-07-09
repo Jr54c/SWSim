@@ -1,0 +1,496 @@
+578-R Space Transport,100.0,0,12.0,3.0,3.0,40.0,2.0,N,Laser Cannon,80
+A519 Invader Close Support Starfighter,80.0,20.0,3.0,6.0,2.0,75.0,1.0,S,Twin Laser Cannons,100
+A-7 Hunter Interceptor,60.0,0,4.0,5.0,0,55.0,1.0,S,Laser Cannons,80
+A-24 Sleuth. modified,110.0,15.0,7.0,4.0,1.0,3.0,1.0,S,Laser Cannons,80
+Acclamator II-class Assault Ship,960.0,120.0,12.0,4.0,0.75,10000.0,20141.0,S,Turbolaser Battery-Heavy Proton Torpedoes,1650
+Acclamator-class Assault Ship,960.0,120.0,12.0,4.0,0.75,11250.0,20141.0,S,Quad Turbolaser Battery-Point-Defense Light Laser Cannon Battery-Proton Torpedoes,2220
+Action VI Transport,600.0,0,12.0,1.0,3.0,90000.0,8.0,N,,0
+AEG-77 Vigo,120.0,20.0,12.0,3.0,4.0,25.0,8.0,S,Laser Cannons-Light Laser Cannons,140
+AEG-77 Vigo Transport,120.0,20.0,12.0,3.0,3.0,100.0,8.0,S,Laser Cannons,80
+Alpha-class XG-1 Star Wing,130.0,30.0,7.0,4.0,1.0,100.0,1.0,S,Laser Cannons-Ion Cannons-Medium Concussion Missiles,400
+ARC-170 Starfighter,150.0,25.0,8.0,4.0,1.5,110.0,3.0,E,Heavy Laser Cannons-Proton Torpedoes-Laser Cannons,380
+Ardent-class Fast Frigate,1200.0,160.0,14.0,4.0,1.0,5000.0,1400.0,S,Heavy Turbolaser Battery-Medium Turbolaser Battery-Point-Defense Medium Laser Cannon Battery-Tractor Beam Battery,3240
+Arkanian Legacy,1500.0,100.0,14.0,2.0,2.0,10000.0,5000.0,S,Light Turbolaser Battery-Medium Turbolaser Battery,1600
+Armored Star Courier (Modified). Sith Infiltrator,90.0,30.0,11.0,4.0,1.5,2.5,1.0,A,Laser Cannons,60
+Assassin-class Corvette,880.0,120.0,12.0,3.0,2.0,1500.0,84.0,S,Dual Turbolaser Battery-Proton Torpedo Launchers,1080
+Assault Gunboat,145.0,15.0,7.0,4.0,12.0,100.0,1.0,S,Medium Laser Cannons-Medium Ion Cannons-Concussion Missiles,380
+Aurek Tactical Strikefighter,110.0,15.0,4.0,5.0,2.0,20.0,1.0,S,Heavy Laser Cannon-Proton Torpedoes,300
+A-Wing,80.0,15.0,3.0,6.0,1.0,40.0,1.0,S,Laser Cannons-Medium Concussion Missiles-Jammer,240
+A-Wing (early),80.0,15.0,3.0,6.0,1.0,40.0,1.0,S,Laser Cannons-Jammer,100
+Azure Angel,71.0,15.0,3.0,6.0,1.0,0,1.0,A,Laser Cannons-Proton Torpedoes,320
+Baas-class Space Station,900.0,200.0,11.0,0.0,0,1000000.0,250.0,N,,0
+Banshee. The,60.0,15.0,11.0,5.0,2.0,35.0,2.0,S,Double Light Laser Cannons-Quad Laser Cannons,140
+Barloz-class Freighter,180.0,15.0,13.0,3.0,2.0,85.0,2.0,N,Laser Cannon,80
+Baronial-class Yacht,115.0,10.0,12.0,3.0,3.0,30.0,1.0,S,Double Light Laser Cannons,80
+Baudo-class Star Yacht,60.0,15.0,11.0,5.0,2.0,35.0,1.0,N,Light Laser Cannons,40
+BB-2 Starfire Fighter-Bomber,170.0,30.0,8.0,5.0,1.0,90.0,3.0,S,Laser Cannon-Light Laser Cannon-Interceptor Missile-Proton Torpedo Salvo-Ion Bomb (atmosphere only),510
+BC-714 Luxury Transport,135.0,45.0,12.0,2.0,1.0,80.0,17.0,N,,0
+Belbullab-22 Heavy Starfighter,160.0,25.0,10.0,4.0,6.0,140.0,1.0,S,Triple Laser Cannons,100
+Belbullab-23 Heavy Starfighter,160.0,25.0,10.0,4.0,6.0,140.0,1.0,S,Triple Laser Cannons,120
+Belbullab-24 Heavy Starfighter,160.0,25.0,10.0,4.0,6.0,140.0,1.0,S,Triple Laser Cannons-Concussion Missile Launchers,300
+Besh-Type Personal Starfighter,180.0,20.0,8.0,3.0,2.0,60.0,1.0,S,Light Laser Cannons,100
+Blood Brother. The,960.0,100.0,14.0,3.0,2.0,1000.0,8.0,S,Medium Turbolaser Battery-Tractor Beam,750
+Bloody Credit. The,130.0,45.0,14.0,2.0,4.0,19.0,6.0,S,,0
+Broad-side Heavy Cruiser,1500.0,120.0,12.0,2.0,1.0,6000.0,1255.0,S,Light Turbolaser Battery-Point-Defense Laser Cannon Battery-Medium Concussion Missile Battery-Tractor Beam Battery,2200
+B-Wing,90.0,30.0,6.0,3.0,2.0,45.0,1.0,S,Autoblasters-Laser Cannons-Proton Torpedoes-Light Ion Cannons,480
+B-Wing. Shuttle,90.0,20.0,6.0,3.0,2.0,45.0,1.0,S,Laser Cannons-Light Ion Cannons,200
+B-Wing/E2,150.0,50.0,8.0,3.0,2.0,50.0,2.0,S,Laser Cannons-Light Ion Cannons-Proton Torpedoes,380
+C-9979 Landing Craft,600.0,60.0,11.0,1.0,0,1800.0,88.0,S,Fire-linked Laser Cannons-Fire-linked Blaster Cannons,200
+Cardan I-class Space Station,600.0,150.0,11.0,0.0,0,15000.0,1200.0,S,Light Turbolaser Battery-Point-Defense Light Ion Cannon Battery,560
+Cardan II-class Space Station,1200.0,175.0,12.0,0.0,0,30000.0,2400.0,S,Light Turbolaser Battery-Point-Defense Light Ion Cannon Battery-Proton Torpedoes-Tractor Beam,740
+Cardan III-class Space Station,1800.0,200.0,13.0,0.0,0,15000.0,4800.0,S,Medium Turbolaser Battery-Point-Defense Medium Laser Cannon Battery-Point-Defense Medium Ion Cannon Battery-Proton Torpedoes-Tractor Beam,1180
+Carrack-class Light Cruiser,1000.0,130.0,13.0,4.0,1.0,3500.0,1092.0,S,Heavy Turbolaser Battery-Point-Defense Light Laser Cannon Battery-Tractor Beam Battery,1950
+Centurion-class Battlecruiser,1950.0,140.0,14.0,3.0,2.0,32000.0,31452.0,S,Medium Turbolaser Battery-Heavy Ion Cannon Battery-Point-Defense Light Laser Cannon Battery-Tractor Beam Battery,2520
+CF9 Crossfire Starfighter,150.0,30.0,8.0,4.0,1.0,70.0,1.0,S,Laser Cannons-Double Light Laser Cannon-Proton Torpedoes,380
+Charger c70 Retrofit,960.0,120.0,14.0,3.0,1.5,6000.0,8.0,S,Light Turbolaser Cannon Battery-Point-Defense Medium Laser Cannon,530
+Chiss Nssis-class Clawcraft,90.0,25.0,4.0,5.0,1.5,25.0,1.0,E,Laser Cannons,120
+Chu'unthor,2800.0,300.0,18.0,1.0,2.0,40.0,4000.0,S,Tractor Beam Battery,0
+CIS-Advanced Starfighter,90.0,25.0,4.0,5.0,6.0,190.0,1.0,S,Heavy Blaster Cannons-Proton Torpedo Launchers,300
+Citadel-class Cruiser. ILH-KK,120.0,30.0,14.0,3.0,2.0,50.0,3.0,S,Laser Cannons-Ion Cannons-Medium Concussion Missiles-Tractor Beam,360
+Cloakshape Fighter,140.0,0,7.0,4.0,0,40.0,1.0,S,Laser Cannons-Medium Concussion Missiles,220
+Cloakshape Fighter modified,140.0,0,7.0,4.0,3.0,40.0,1.0,S,Laser Cannons-Medium Concussion Missiles,220
+Clutch Fighter,50.0,15.0,3.0,4.0,0,25.0,1.0,S,Laser Cannons-Ion Cannons,200
+Conductor-class Short-Haul Landing Craft,120.0,0,12.0,2.0,3.0,80.0,1.0,S,,0
+Conqueror-class Assault Ship,120.0,30.0,12.0,5.0,1.0,25.0,3.0,E,Light Ion Cannon-Double Medium Laser Cannon,180
+Consular-class Cruiser,960.0,100.0,14.0,3.0,2.0,1000.0,8.0,S,,0
+Coralskipper,100.0,25.0,7.0,4.0,0,1.3,1.0,E,Volcano Cannons-Dovin Basal,260
+Corellian Corvette. CR70,800.0,90.0,12.0,3.0,2.0,5000.0,30.0,S,,0
+Corellian Corvette. CR90,800.0,100.0,12.0,3.0,2.0,3000.0,48.0,S,Turbolaser,1000
+Corellian Gunship,920.0,115.0,12.0,3.0,1.0,300.0,91.0,S,Double Turbolasers-Point-Defense Quad Laser Cannon Battery-Heavy Concussion Missiles,1420
+Corona-class Armed Frigate,750.0,60.0,11.0,3.0,1.0,450.0,64.0,S,Medium Turbolaser Battery-Heavy Ion Cannon Battery-Point-Defense Medium Laser Cannon Battery-Tractor Beam Battery,1960
+CR-20 Troop Carrier,300.0,25.0,10.0,3.0,3.0,15.0,6.0,E,Fire-linked Medium Turbolasers-Fire-linked Medium Turbolasers,600
+Crimson Axe. The,790.0,100.0,11.0,3.0,2.0,3000.0,550.0,E,Turbolaser Battery-Point-Defense Laser Cannon Battery-Tractor Beam,960
+Crix-class Assault Shuttle,200.0,50.0,16.0,4.0,1.0,50.0,5.0,S,Twin Laser Cannons-Blaster Cannon Battery,660
+Crix-class Diplomatic Courier Shuttle,200.0,25.0,14.0,4.0,1.0,50.0,5.0,S,Twin Laser Cannons-Blaster Cannon Battery,460
+Crusader-class Corvette,950.0,120.0,12.0,4.0,1.0,3600.0,80.0,S,Point-Defense Laser Cannon Battery-Point-Defense Laser Cannon,680
+Cutlass-9 Patrol Fighter,80.0,10.0,6.0,4.0,2.0,110.0,1.0,S,Laser Cannons-Medium Concussion Missiles,240
+C-Wing. Ugly,100.0,30.0,7.0,2.0,2.0,450.0,2.0,S,Assault Laser Cannon-Light Ion Cannons-Proton Torpedo Launchers,420
+CX-133 Chaos Fighter,60.0,0,3.0,4.0,0,40.0,1.0,S,Light Laser Cannons,100
+Dagger-class Starfighter,60.0,0,6.0,4.0,2.0,55.0,1.0,S,Laser Cannons,120
+Dartship,100.0,0,4.0,5.0,0,70.0,1.0,S,Laser Cannon,80
+Davaab-type starfighter,100.0,25.0,4.0,5.0,2.0,40.0,1.0,S,Light Laser Cannons-Medium Concussion Missiles,240
+Deep-X Explorer,60.0,0,6.0,3.0,1.0,50.0,3.0,N,Light Blaster Cannon,40
+Delta- 7 Aethersprite Interceptor,65.0,15.0,3.0,5.0,1.0,0,1.0,E,Laser Cannons,120
+Delta- 7 Aethersprite. High-Maneuver variant,65.0,15.0,3.0,5.0,1.0,0,1.0,E,Laser Cannons,120
+Delta- 7 Aethersprite. High-Speed variant,65.0,15.0,3.0,6.0,1.0,0,1.0,E,Laser Cannons,120
+Derriphan-class Battleship,840.0,0,13.0,2.0,4.0,5000.0,25.0,S,Point-Defense Laser Cannon Battery-Heavy Concussion Missile Battery,1440
+Diamond-class Cruiser,840.0,50.0,12.0,1.0,0.75,1380.0,148.0,S,Laser Cannon Batteries,480
+Dianoga-class Assault Starfighter,80.0,15.0,6.0,3.0,2.0,90.0,1.0,S,Fire-linked Laser Cannons-Heavy Ion Cannon,220
+Dreadnaught. Archaic,1680.0,115.0,13.0,1.0,2.0,9000.0,16210.0,S,Turbolaser Battery-Light Quad Turbolaser Battery-Light Turbolaser,3100
+Dreadnaught-class Heavy Cruiser,1680.0,115.0,13.0,1.0,2.0,9000.0,16210.0,S,Turbolaser Battery-Light Quad Turbolaser Battery-Light Turbolaser,3100
+Drexl-class Planetary Defender Starfighter,150.0,10.0,8.0,4.0,0,70.0,2.0,S,Dual Laser Cannons-Concussion Missiles,260
+Droch-class Boarding Ship,60.0,0,3.0,3.0,0,30.0,1.0,S,Light Laser Cannons-Boarding Drill,60
+Droid Tri-Fighter,100.0,0,4.0,4.0,0,0,0.0,E,Laser Cannons-Light Laser Cannons-Concussion Missiles,300
+Drop Pod,60.0,0,6.0,3.0,0,2.0,0.0,S,,0
+Dunelizard Fighter. G1-M4-C ,140.0,25.0,8.0,4.0,2.0,110.0,1.0,N,Double Medium Laser Cannons,100
+Dunelizard Fighter. Type II,140.0,25.0,8.0,4.0,2.0,110.0,1.0,N,Double Medium Laser Cannons,100
+Dynamic-class Freighter,110.0,0,12.0,2.0,3.0,60.0,2.0,N,Double Laser Cannons,80
+E-9 Explorer,150.0,45.0,13.0,4.0,1.0,30.0,4.0,N,Laser Cannon-Laser Cannon,160
+Ebon Hawk. The,140.0,40.0,12.0,4.0,1.0,40.0,3.0,S,Double Laser Cannons-Double Heavy Laser Cannons-Docking Gun,236
+Eclipse,6000.0,500.0,20.0,1.0,2.0,600000.0,712645.0,S,Superlaser-Heavy Turbolaser Battery-Turbolaser Battery-Point-Defense Laser Cannon Battery-Heavy Ion Cannon Battery-Tractor Beam Battery,9600
+Endurance-class fleet carrier,2100.0,250.0,16.0,3.0,1.0,15000.0,7039.0,E,Point-Defense Laser Cannon Battery-Turbolaser Battery-Tractor Beam Battery-Heavy Concussion Missile Battery,4650
+Errant Venture,2000.0,120.0,16.0,3.0,4.0,50000.0,12000.0,E,Heavy Turbolaser Battery-Turbolaser Battery-Point-Defense Laser Cannon Battery-Heavy Ion Cannon Battery-Tractor Beam,3600
+Escape Pod,40.0,0,2.0,1.0,0,0,0.0,U,,0
+Escort Carrier,660.0,30.0,11.0,2.0,1.0,5000.0,3505.0,S,Point-Defense Laser Cannon Battery-Medium Concussion Missiles,420
+Eta-2 Interceptor,70.0,0,3.0,6.0,1.0,60.0,1.0,A,Laser Cannons-Ion Cannons,160
+Eta-2 Interceptor. modified,70.0,0,3.0,6.0,1.0,60.0,1.0,A,Laser Cannons-Ion Cannons-Concussion Missiles,320
+Eta-2. Heavy-Defense variant,77.0,15.0,4.0,6.0,1.0,60.0,1.0,A,Laser Cannons-Ion Cannons,160
+Eta-2. High-Maneuver variant,70.0,0,3.0,6.0,1.0,60.0,1.0,A,Laser Cannons-Ion Cannons,160
+E-wing. Type B,150.0,15.0,8.0,6.0,2.0,110.0,1.0,E,Triple Heavy Blaster Cannons-Proton Torpedoes,300
+Ferret-class Reconnaissance Vessel,120.0,0,7.0,4.0,1.0,2.0,3.0,E,Medium Concussion Missiles,180
+Firespray-31 Patrol Craft,150.0,30.0,13.0,3.0,3.0,70.0,1.0,S,Blaster Cannons-Tractor Beam,100
+Foray-class Blockade Runner,750.0,80.0,11.0,3.0,2.0,2800.0,70.0,S,Medium Turbolaser Battery,1250
+Freefall-class Starfighter,120.0,20.0,12.0,4.0,2.0,20.0,4.0,S,Laser Cannons-Bomb Chute,520
+Fury-class Starfighter,180.0,30.0,13.0,6.0,0.75,150.0,1.0,A,Advanced Heavy Laser Cannons,160
+G9 Rigger,100.0,0,11.0,2.0,3.0,70.0,2.0,N,Double Light Laser Cannons-Light Laser Cannons,140
+Gamma-class Assault Shuttle,360.0,230.0,13.0,4.0,2.0,5.0,5.0,S,Turbolasers-Tractor Beam-Medium Concussion Missiles,260
+Ghtroc Class 720 Freighter,110.0,15.0,12.0,2.0,2.0,135.0,2.0,N,Double Laser Cannons,80
+Ginivex-class Starfighter,80.0,30.0,3.0,5.0,1.0,50.0,1.0,E,Double Laser Cannons,120
+Gladiator-class Star Destroyer,1500.0,120.0,13.0,2.0,1.0,6000.0,1255.0,S,Light Turbolaser Battery-Point-Defense Laser Cannon Battery-Medium Concussion Missile Battery-Tractor Beam Battery,2200
+Gladius-class Light Freighter,140.0,30.0,12.0,3.0,1.0,50.0,1.0,S,Advanced Heavy Quad Laser Cannons,180
+Glorious Chariot,120.0,15.0,12.0,4.0,2.0,100.0,2.0,S,Medium Laser Cannons-Double Medium Laser Cannons,140
+Golan VIII Space Defense Platform,2500.0,300.0,14.0,1.0,4.0,15000.0,1100.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery-Proton Torpedo Battery-Tractor Beam Battery,4160
+Gozanti Cruiser,180.0,15.0,14.0,1.0,3.0,75.0,12.0,S,Proton Torpedoes-Laser Cannon Batteries-Quad Laser Cannon Battery,700
+GPE-7300 Space Transport,160.0,20.0,13.0,4.0,2.0,45.0,1.0,S,Heavy Laser Cannons,120
+GR-75 Medium Transport,400.0,45.0,14.0,2.0,4.0,19000.0,6.0,N,Point-Defense Double Laser Cannons,80
+Grinning Liar,180.0,40.0,15.0,3.0,1.0,90.0,2.0,S,Medium Laser Cannons,120
+GS-100 Salvage Ship,190.0,0,13.0,2.0,3.0,140.0,3.0,N,Medium Laser Cannons,80
+G-Type Light Shuttle,100.0,30.0,12.0,3.0,0,10.0,1.0,S,Double Laser Cannons,100
+G-Type Light Shuttle (Escape Shuttle Variant),100.0,50.0,12.0,3.0,2.0,2.0,1.0,S,Double Laser Cannons,100
+Guardian-class Light Cruiser,300.0,120.0,16.0,3.0,1.0,200.0,8.0,S,Laser Cannon Battery,400
+Gymsnor-3 Freighter,150.0,15.0,13.0,3.0,2.0,95.0,1.0,S,Laser Cannons,80
+H-60 Tempest Bomber,160.0,25.0,8.0,4.0,0,110.0,4.0,S,Laser Cannons-Medium Concussion Missiles,280
+Hammerhead-class Cruiser,1000.0,125.0,12.0,3.0,2.0,4000.0,300.0,S,Double Light Turbolaser Battery-Medium Turbolaser Battery-Point-Defense Light Laser Cannon Batteries-Tractor Beam Battery,2550
+Hapan Battle Dragon,2280.0,150.0,15.0,2.0,2.0,6000.0,12191.0,S,Turbolaser Battery-Ion Cannon Battery-Proton Torpedo Battery-Triple Ion Cannons-Tractor Beam-16 mass pulse tubes,4650
+Hapes Nova Cruiser,1000.0,100.0,13.0,4.0,1.5,600.0,1790.0,S,Turbolaser Battery-Point-Defense Laser Cannon Batteries-Ion Cannon Battery,3500
+Hapes Nova Cruiser. upgraded,1000.0,100.0,13.0,4.0,1.5,600.0,1790.0,S,Turbolaser Battery-Point-Defense Laser Cannon Batteries-Ion Cannon Battery,3500
+Hardcell-class Transport,800.0,100.0,14.0,1.0,1.0,12400.0,190.0,S,Laser Cannons (battery),480
+Helot-class Medium Transport,180.0,0.0,14.0,3.0,2.0,100.0,2.0,N,Medium Laser Cannons,100
+Heraklon-class Transport,540.0,0,11.0,3.0,3.0,75000.0,20.0,N,,0
+Herald-class Shuttle (cargo),130.0,20.0,12.0,3.0,2.0,70.0,2.0,S,Light Turbolaser Cannons-Point-Defense Double Laser Cannons,230
+Herald-class Shuttle (shuttle only),130.0,20.0,12.0,3.0,2.0,15.0,2.0,E,Light Turbolaser Cannons-Point-Defense Double Laser Cannons,230
+Home One,1950.0,150.0,13.0,3.0,1.0,20000.0,5402.0,S,Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery,2400
+Hornet-class Interceptor,50.0,35.0,6.0,4.0,0,80.0,1.0,S,Advanced Heavy Laser Cannons,200
+Hound's Tooth,180.0,60.0,10.0,4.0,1.5,20.0,1.0,S,Quad Laser Cannons-Ion Cannon-Medium Concussion Missiles,400
+HWK-290,160.0,0,12.0,3.0,2.0,75.0,2.0,N,Blaster Cannons,100
+Hyena-class Bomber,70.0,0,3.0,4.0,0,0,0.0,E,Light Laser Cannons-Proton Torpedoes-Light Concussion Missiles,380
+Hyperspace Beacon,50.0,0,3.0,0.0,0,5.0,0.0,U,,0
+I4 Ionizer Starfighter,120.0,15.0,7.0,5.0,1.0,70.0,1.0,S,Laser Cannons (battery)-Quad Medium Ion Cannons-Disruptor Torpedo,400
+Imperial Cargo Ship,980.0,10.0,12.0,4.0,2.0,502212.0,14857.0,S,Quad Turbolaser Battery-Point-Defense Laser Cannon Battery,2040
+Imperial I Star Destroyer,2100.0,150.0,16.0,3.0,2.0,36000.0,37085.0,S,Turbolaser Battery-Ion Cannon Battery-Point-defense laser battery-Tractor Beam,2560
+Imperial II Star Destroyer,2100.0,125.0,16.0,3.0,2.0,36000.0,37085.0,S,Heavy Turbolaser Battery-Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery,6300
+Imperial II-class Frigate,1500.0,120.0,14.0,3.0,4.0,46350.0,19899.0,S,Turbolaser Battery-Ion Cannon Battery-Point-defense laser battery-Tractor Beam Battery,1760
+Imperial Landing Craft,140.0,40.0,12.0,4.0,1.0,130.0,8.0,E,Double Medium Laser Cannons-Antipersonnel Heavy Blaster Cannons,200
+Imperious-class Star Destroyer,2500.0,140.0,15.0,2.0,0.75,13000.0,6700.0,S,Heavy Turbolaser Battery-Medium Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Proton Torpedo Battery-Gravity Mine,9000
+Indomitable,1900.0,130.0,13.0,3.0,0.75,18000.0,5200.0,E,Heavy Turbolaser Battery-Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Proton Torpedo Launcher Battery,5640
+Inexpugnable-class Tactical Command Vessel,2050.0,150.0,14.0,2.0,2.0,50000.0,4300.0,S,Double Turbolaser Battery-Light Turbolaser Battery-Point-Defense Light Laser Cannon Batteries-Tractor Beam Battery,2550
+Interdictor-class Heavy Cruiser. Immobilizer 418,1500.0,150.0,15.0,2.0,2.0,5500.0,2807.0,S,Light Quad Turbolaser Battery-Gravity Well Projector,800
+Interdictor-class Warship,1250.0,110.0,12.0,3.0,2.0,11000.0,5224.0,S,Medium Turbolaser Battery-Point-defense Light Laser Cannon Battery-Tractor Beam Battery-Gravity Well Projector,1430
+Invisible Hand,1800.0,180.0,13.0,4.0,1.0,29000.0,350.0,E,Quad Turbolaser Battery-Dual Laser Cannon Battery-Heavy Ion Cannons-Point-defense Ion Cannon Battery-Proton Torpedo Launcher Battery,4290
+IPV-1 System Patrol Craft,660.0,165.0,12.0,4.0,0,200.0,12.0,S,Point-Defense Light Turbolasers-Medium Concussion Missiles,410
+IRD Starfighter,120.0,0,7.0,3.0,0,30.0,1.0,S,Twin Medium Blaster Cannons,100
+IRD-A Starfighter,120.0,0,7.0,4.0,0,40.0,1.0,S,Twin Medium Blaster Cannons-Light Concussion Missiles,240
+Ixiyen-class Fast Attack Craft,120.0,10.0,8.0,4.0,1.0,440.0,1.0,N,Double Medium Laser Cannons-Medium Concussion Missiles,260
+J-1 Shuttle,110.0,25.0,12.0,4.0,2.0,90.0,2.0,S,Double Laser Cannons,40
+Jehavey'ir Assault Ship,900.0,75.0,11.0,3.0,2.0,3500.0,200.0,S,Medium Double Turbolaser Battery-Heavy Ion Cannon Battery-Super-Heavy Concussion Missile Battery,5400
+J-Type Star Skiff,200.0,50.0,14.0,4.0,0.5,10.0,3.0,A,Laser Cannons,140
+JumpMaster 5000 Scout Ship,120.0,15.0,12.0,4.0,3.0,50.0,1.0,S,Laser Cannons,80
+Jumpstar HPF Starfighter,100.0,15.0,7.0,5.0,1.0,70.0,1.0,S,Laser Cannons-Marker Missiles,100
+Kaloth-style Battlecruiser,920.0,150.0,13.0,3.0,2.0,6540.0,1464.0,S,Double Light Turbolaser Battery-Point-Defense Medium Laser Cannon Battery-Tractor Beam Battery,480
+Kandosii-type Dreadnaught,2100.0,125.0,15.0,2.0,2.0,45000.0,10000.0,S,Double Medium Turbolaser Battery-Point-Defense Triple Laser Cannon Battery-Super-Heavy Concussion Missile Battery-Tractor Beam Battery,5820
+Kappa-class Shuttle,130.0,25.0,14.0,4.0,2.0,50.0,4.0,E,Double Blaster Cannons-Heavy Repeating Blaster Cannons,130
+Keldabe-class Battleship,1700.0,150.0,13.0,3.0,2.0,20000.0,6000.0,S,Turbolaser Battery-Heavy Ion Cannon Battery-Mass Driver Missile Launcher Battery-Tractor Beam Battery,3700
+Kihraxz Light Fighter,90.0,10.0,6.0,4.0,0,130.0,1.0,S,Light Blaster Cannons-Light Concussion Missiles,200
+Krayt's Honor,180.0,50.0,18.0,1.0,3.0,65.0,6.0,E,Proton Torpedoes-Laser Cannon Batteries-Quad Laser Cannon Battery-Turbolaser Battery,1470
+KR-TB Doomtreader,180.0,30.0,13.0,3.0,2.0,100.0,2.0,S,Dual Laser Cannons,120
+KT-400 Military Droid Carrier,130.0,30.0,14.0,3.0,2.0,40.0,8.0,S,Double Medium Laser Cannon,120
+K-wing. BTL-S8,160.0,30.0,8.0,4.0,0,440.0,4.0,S,Laser Cannons-Ion Cannons-Proton Torpedoes-Proton Torpedoes-Shieldbuster Torpedoes,700
+Kyramud-type Battleship,1250.0,90.0,14.0,2.0,2.0,8000.0,1200.0,S,Point-Defense Medium Ion Cannon Battery-Double Medium Turbolaser Battery-Heavy Concussion Missile Battery-Tractor Beam Battery-Heavy Concussion Missile Battery,3241
+Lambda-class Shuttle,120.0,25.0,12.0,4.0,1.0,80.0,6.0,S,Blaster Cannon Battery-Blaster Cannon-Twin Laser Cannon,340
+Lancer-class Frigate,800.0,125.0,12.0,3.0,2.0,500.0,850.0,S,Point-Defense Laser Cannon Battery,400
+Last Resort. The,100.0,10.0,12.0,3.0,4.0,40.0,2.0,S,Heavy Laser Cannon,100
+Lethisk-class Armed Freighter,150.0,30.0,13.0,3.0,2.0,60.0,3.0,S,Double Laser Cannons-Light Concussion Missiles,280
+Light Corvette. Imperial Customs Corvette,320.0,45.0,13.0,4.0,2.0,500.0,58.0,S,Double Laser Cannon Battery,480
+Light Freighter,120.0,30.0,12.0,4.0,2.0,100.0,1.0,S,Quad Light Laser Cannon,80
+Lone Scout-A,110.0,0,7.0,3.0,3.0,150.0,3.0,S,Laser Cannons,60
+Lucrehulk-class Battleship,1800.0,150.0,13.0,2.0,2.0,5000000.0,225.0,S,Turbolaser Battery-Heavy Turbolaser Battery-Point-Defense Quad Laser Cannon Battery,3800
+Lucrehulk-class Core Ship,1500.0,130.0,13.0,2.0,0,75000.0,225.0,S,Turbolaser Battery-Heavy Turbolaser Battery-Point-Defense Quad Laser Cannon Battery,3800
+Lucrehulk-class Droid Control Ship,1800.0,150.0,13.0,2.0,2.0,4300000.0,225.0,S,Quad Turbolaser Battery,2100
+Lusankya,3000.0,350.0,17.0,1.0,1.0,250000.0,207381.0,S,Heavy Turbolaser Battery-Turbolaser Battery-Point-Defense Laser Cannon Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Heavy Concussion Missile Battery,8950
+M12-L Kimogila Heavy Fighter,160.0,15.0,8.0,4.0,2.0,110.0,1.0,N,Heavy Laser Cannons-Medium Concussion Missiles-Proton Torpedoes,460
+M22-T Krayt Gunship,160.0,20.0,8.0,3.0,1.0,440.0,2.0,S,Heavy Laser Cannons-Ion Cannons-Medium Concussion Missiles,340
+M3-A Scyk Fighter,130.0,20.0,8.0,4.0,2.0,110.0,1.0,S,Laser Cannons,80
+Maka-Eekai L4000 Transport,200.0,20.0,12.0,2.0,2.0,140.0,4.0,N,Double Laser Cannons,80
+Mankvim-814 Interceptor,50.0,15.0,6.0,6.0,0,0,1.0,S,Laser Cannons,40
+Marauder Corvette,720.0,115.0,12.0,3.0,2.0,300.0,177.0,S,Double Turbolaser Battery-Tractor Beam,800
+MC-24A Light Shuttle,100.0,20.0,12.0,4.0,0,10.0,2.0,S,Light Laser Cannons,60
+MC-80. Mon Calamari Cruiser,1800.0,150.0,13.0,3.0,1.0,20000.0,5402.0,S,Turbolaser Battery-Ion Cannon Battery-Tractor Beam Battery,2100
+MedStar-class Frigate,680.0,100.0,12.0,2.0,1.0,4800.0,440.0,S,Turbolaser Battery-Point-Defense Laser Cannon Batteries-Tractor Beam,1200
+Millennium Falcon,180.0,45.0,14.0,6.0,0.5,100.0,4.0,A,Quad Laser Cannons-Medium Concussion Missiles-Docking Gun,336
+Ministry-class Orbital Shuttle,110.0,30.0,12.0,3.0,0,1.5,2.0,S,Double Laser Cannons,100
+Missile Boat,145.0,15.0,7.0,4.0,6.0,100.0,1.0,S,Medium Laser Cannons-Advanced Missile Launcher-Missile Launcher,530
+Miy'til Assault Bomber,120.0,30.0,8.0,4.0,2.0,40.0,2.0,S,Laser Cannons-Medium Concussion Missiles,280
+Miy'til Command Fighter,90.0,20.0,3.0,4.0,1.5,25.0,1.0,S,Laser Cannons-Medium Concussion Missiles-Ion Cannons,400
+Miy'til Fighter,90.0,20.0,3.0,4.0,1.5,25.0,1.0,S,Laser Cannons-Medium Concussion Missiles,260
+Mobile Spacedock 220,2100.0,100.0,14.0,1.0,4.0,600000.0,1000.0,N,Turbolaser Battery-Point-Defense Laser Cannon Battery-Tractor Beam Battery,1760
+Mobquet Medium Transport,900.0,90.0,12.0,3.0,2.0,700.0,2.0,S,Laser Cannon-Medium Concussion Missiles,240
+Moomo Williwaw,130.0,20.0,12.0,3.0,0,5.0,4.0,E,Heavy Laser Cannons-Laser Cannons-Light Laser Cannons-Medium Blaster Cannon-Medium Double Blaster Cannons-Light Blaster Cannon,500
+Morningstar-A Assault Starfighter,70.0,20.0,6.0,3.0,2.0,75.0,1.0,S,Light Laser Cannons-Concussion Missile Launcher,260
+Morningstar-B Assault Starfighter,70.0,20.0,6.0,3.0,2.0,75.0,1.0,S,Light Laser Cannons-3 Heavy Laser Cannons,240
+Morningstar-C Assault Starfighter,70.0,20.0,6.0,3.0,2.0,75.0,1.0,S,3 Heavy Laser Cannons-3 Concussion Missile Launchers,300
+MRX-BR Pacifier Combat/Contact Vessel,60.0,30.0,11.0,5.0,1.0,25.0,2.0,S,Laser Cannons-Proton Torpedoes,260
+MT Dropship,300.0,50.0,16.0,4.0,0,500.0,15.0,S,Laser Cannon Battery-Concussion Missiles,1440
+Mu-2 Model 2 Shuttle,120.0,25.0,12.0,4.0,2.0,100.0,2.0,S,Laser Cannons,100
+Munificent-class Frigate,1080.0,165.0,12.0,3.0,1.0,40000.0,200.0,S,Heavy Turbolasers-Medium Ion Cannons-Twin Turbolaser Battery-Light Turbolaser Battery-Point-Defense Lasers (Battery),2840
+Mynock,200.0,50.0,16.0,3.0,0.5,70.0,3.0,E,Medium Laser Cannons-Heavy Laser Cannons-Quad Laser Cannons,340
+N-1 Starfighter. Naboo,60.0,15.0,6.0,4.0,1.0,65.0,1.0,S,Laser Cannons-Proton Torpedoes,300
+Nantex-class Territorial Defense Starfighter,100.0,0,4.0,5.0,0,50.0,1.0,S,Laser Cannons,60
+Nebula-class Star Destroyer,2100.0,250.0,16.0,3.0,1.0,15000.0,7039.0,E,Heavy Turbolaser Battery-Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Heavy Concussion Missile Battery,7750
+Nebulon-B Frigate,720.0,100.0,12.0,3.0,2.0,6000.0,920.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery-Tractor Beam,1440
+Nemesis-class Patrol Ship,150.0,30.0,13.0,3.0,2.0,5.0,4.0,S,Fire-Linked Laser Cannons-Laser Cannons,220
+Neutralizer-class Bomber,120.0,20.0,7.0,6.0,1.0,110.0,1.0,S,Laser Cannons-Proton Torpedoes,280
+Neutron Star Bulk Cruiser,1400.0,100.0,11.0,1.0,2.0,5000.0,2050.0,S,Heavy Quad Laser Cannon Battery-Tractor Beam,1200
+NovaSword Space Superiority Fighter,110.0,15.0,7.0,4.0,2.0,110.0,1.0,S,Laser Cannons-Medium Concussion Missiles,260
+Nu-class Attack Shuttle,110.0,30.0,14.0,4.0,1.0,2.0,2.0,E,Medium Laser Cannons-Double Light Laser Cannons,160
+Nune-class Imperial Shuttle,150.0,30.0,13.0,4.0,1.0,250.0,8.0,S,Medium Laser Cannons-Medium Laser Cannon Battery-Double Heavy Laser Cannons,420
+Orbital Service Shuttle,130.0,0,13.0,3.0,0,1.0,1.0,N,,0
+Outbound Flight,9000.0,165.0,13.0,1.0,2.0,19000.0,5000.0,S,Turbolaser Battery-Laser Cannon Batteries-Quad Laser Cannon Batteries,4590
+P-38 Jenta variant,90.0,25.0,6.0,6.0,1.0,65.0,1.0,S,Laser Cannons-Ion Bombs (atmo. only),150
+P-38 Starfighter,90.0,25.0,6.0,6.0,1.0,65.0,1.0,S,Laser Cannons,100
+Pelegia Duplex Command Assault Gunship,130.0,20.0,12.0,3.0,0,10.0,5.0,E,Heavy Laser Cannons-Laser Cannons,200
+Pellaeon-class Star Destroyer,2350.0,140.0,14.0,3.0,0.75,11000.0,8450.0,S,Heavy Turbolaser Battery-Medium Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Proton Torpedo Battery,7800
+Pelta-class Medical Frigate,760.0,100.0,11.0,3.0,2.0,275.0,900.0,S,Light Turbolaser Battery-Point-Defense Light Laser Cannon Battery-Tractor Beam Battery,1380
+Penumbra-class Attack Shuttle,110.0,20.0,12.0,4.0,0,20.0,3.0,S,Medium Laser Cannons-Medium Concussion Missiles,300
+Phoebos-class Starfighter,90.0,30.0,3.0,6.0,0.5,80.0,1.0,S,Double Light Laser Cannons,80
+Phoenix Hawk-class Light Pinnace. S40K,150.0,30.0,8.0,3.0,2.0,20.0,2.0,S,Heavy Blaster Cannons-Light Ion Cannons,180
+Pinook Fighter,75.0,10.0,3.0,3.0,1.5,25.0,1.0,N,Light Laser Cannons,60
+Praetorian-class Frigate,850.0,100.0,12.0,2.0,2.0,10000.0,1470.0,S,Light Turbolaser Cannon Battery-Point-Defense Laser Cannon Battery-Tractor Beam Battery,640
+Predator-class Starfighter,100.0,15.0,7.0,6.0,1.0,70.0,1.0,S,Double Medium Laser Cannons,100
+Preybird-class Starfighter,75.0,20.0,6.0,4.0,3.0,15.0,2.0,S,Laser Cannons-Concussion Missiles,260
+Providence-class Destroyer,1800.0,180.0,13.0,4.0,1.5,29000.0,22350.0,S,Quad Turbolaser Battery-Dual Laser Cannon Battery-Heavy Ion Cannons-Point-defense Ion Cannon Battery-Proton Torpedo Launcher Battery,4290
+Prowler-class Reconnaissance Vessel,150.0,0,8.0,3.0,1.0,3.0,6.0,E,Medium Concussion Missiles,180
+PTV-2100 Incarcerator,1600.0,140.0,13.0,1.0,3.0,5500.0,250.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery,1080
+Punworcca 116-class Sloop,60.0,20.0,5.0,4.0,1.5,240.0,2.0,S,Microtractor-pressor,0
+Pursuer-class Enforcement Ship,120.0,15.0,12.0,4.0,1.0,35.0,1.0,S,Twin Blaster Cannons-Ion Cannons,180
+Quartermaster-class Supply Carrier,200.0,50.0,14.0,2.0,3.0,120.0,2.0,S,,0
+R-28 Starfighter,150.0,30.0,8.0,4.0,2.0,50.0,1.0,S,Medium Laser Cannons-Medium Ion Cannons,220
+R-41 Starchaser,100.0,20.0,6.0,4.0,2.0,110.0,1.0,S,Laser Cannons-Ion Cannons-Medium Concussion Missiles,320
+R-42 Starchaser,100.0,20.0,6.0,4.0,2.0,110.0,1.0,S,Laser Cannons-Ion Cannons-Medium Concussion Missiles,320
+Razor-class Starfighter,90.0,15.0,6.0,4.0,2.0,110.0,1.0,S,Medium Laser Cannons-Ion Cannons-Medium Concussion Missiles,340
+RC-2 Twilight Scoutship,130.0,10.0,7.0,5.0,1.0,100.0,1.0,S,Laser Cannons-Proton Torpedoes,300
+Rebel Assault Frigate Mk I,1500.0,150.0,13.0,3.0,2.0,7500.0,5000.0,S,Light Turbolaser Battery-Quad Turbolaser Battery-Turbolaser Battery,3250
+Rebel Assault Frigate Mk II,1500.0,150.0,13.0,3.0,2.0,7500.0,4820.0,S,Light Turbolaser Battery-Quad Turbolaser Battery-Turbolaser Battery,3500
+Rebel Assault Frigate. Prototype,1440.0,115.0,13.0,1.0,2.0,9000.0,1459.0,S,Heavy Turbolaser Battery-Light Quad Turbolaser Battery-Turbolaser Battery,3250
+Recusant-class Light Destroyer,1290.0,150.0,12.0,3.0,2.0,10000.0,300.0,S,Heavy Turbolasers-Heavy Turbolaser Battery-Point-Defense Double Laser Cannon Batteries-Point-Defense Light Laser Cannon Batteries-Point-Defense Double Light Laser Cannon Batteries,3450
+Rihkxyrk Assault Fighter,150.0,25.0,8.0,3.0,0,80.0,1.0,S,Enhanced Triple Heavy Laser Cannons-Medium Concussion Missiles,320
+Rogue Shadow,110.0,40.0,11.0,6.0,0.5,15.0,1.0,A,Laser Cannons,140
+Royal Fortune-class Light Clipper,700.0,80.0,11.0,3.0,2.0,8000.0,480.0,S,Laser Cannon Battery-Quad Laser Cannon Battery-Fotia's Fire cannon,740
+Royal Guard Starfighter,90.0,15.0,3.0,5.0,0,75.0,1.0,A,Laser Cannons,120
+S-100 Stinger-class Starfighter,90.0,30.0,3.0,4.0,2.0,30.0,1.0,S,Laser Cannons-Proton Torpedoes,260
+S-250 Chela-class Starfighter,120.0,20.0,7.0,4.0,2.0,30.0,1.0,S,Medium Laser Cannons-Concussion Missiles,300
+Sabaoth Destroyer,900.0,130.0,12.0,2.0,3.0,3000.0,250.0,S,Point-Defense Heavy Laser Cannon Battery-Light Turbolaser Battery,660
+Sabaoth Frigate Spy Ship,650.0,105.0,11.0,3.0,3.0,1200.0,100.0,E,Heavy Laser Cannon,120
+Sabaoth Starfighter,75.0,0,3.0,4.0,0,50.0,1.0,E,Laser Cannon,80
+Sabertooth-class Assault & Rescue Vessel,780.0,100.0,11.0,3.0,1.0,3000.0,800.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery-Tractor Beam Battery,1200
+Scarab-class Starfighter. Droid,80.0,20.0,3.0,3.0,0,0,0.0,S,Blaster Cannons,100
+Scarlet Star,120.0,30.0,15.0,4.0,2.0,150.0,3.0,S,Laser Cannons,100
+Scimitar Assault Bomber,150.0,25.0,8.0,4.0,0,20.0,2.0,S,Light Laser Cannons-Medium Concussion Missiles,260
+SCT Scout Craft,660.0,60.0,11.0,3.0,3.0,275.0,2.0,N,Dual Turbolaser Turret-Point-Defense Dual Laser Cannon,400
+Scurrg H-6 Prototype Bomber,140.0,25.0,12.0,4.0,2.0,10.0,3.0,S,Laser Cannons-Laser Turret-Bomblet Generator,680
+Scythe-class Battle Cruiser,1900.0,130.0,13.0,3.0,0.75,18000.0,5200.0,S,Heavy Turbolaser Battery-Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Proton Torpedo Battery,5640
+Seltiss-2 Caravel,200.0,30.0,14.0,3.0,0,50.0,4.0,N,Laser Cannons,160
+Seltiss-2 Caravel Cabin,50.0,10.0,3.0,3.0,0,5.0,1.0,N,,0
+Sentinel-class Shuttle,120.0,50.0,12.0,5.0,1.0,80.0,6.0,S,Laser Cannons-Ion Cannons-Medium Concussion Missiles (Battery)-Repeating Blaster Cannons (Battery),616
+Shaadlar-type Troopship,750.0,150.0,12.0,2.0,2.0,2500.0,30.0,S,Medium Turbolaser Battery-Point-Defense Medium Ion Cannon Battery-Point-Defense Light Concussion Missiles Battery,2250
+Shackles of Nizon,130.0,45.0,14.0,2.0,4.0,19000.0,6.0,N,,0
+ShaShore-class Frigate,900.0,100.0,11.0,3.0,1.0,7000.0,1200.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery-Proton Torpedo Battery-Tractor Beam Battery,3440
+Sheathipede-class Shuttle,140.0,35.0,6.0,4.0,0,1.0,1.0,S,,0
+Sigma-class Long-Range Shuttle,130.0,45.0,12.0,4.0,1.0,200.0,1.0,S,Double Heavy Laser Cannons,120
+Sith Interceptor,50.0,0,3.0,5.0,0,40.0,1.0,E,Laser Cannons,60
+Skipray Blastboat. GAT-12h,230.0,100.0,14.0,4.0,2.0,20.0,4.0,S,Laser Cannons-Heavy Ion Cannons-Medium Concussion Missiles-Proton Torpedoes,680
+SkyBlind Recon Ship,180.0,45.0,13.0,3.0,3.0,50.0,1.0,N,Proton Torpedoes,180
+Slave I,150.0,45.0,13.0,4.0,1.0,70.0,1.0,A,Blaster Cannons-Concussion Mines-Medium Concussion Missiles-Ion Cannons-Proton Torpedoes (beacon)-Tractor Beam,520
+Soulless One,160.0,25.0,10.0,4.0,2.0,160.0,1.0,E,Triple Laser Cannons,100
+Spinward-class Tender,400.0,60.0,10.0,3.0,2.0,15000.0,1000.0,S,Laser Cannon Battery,320
+Star Defender. Mon Calamari,2700.0,400.0,19.0,2.0,1.0,200000.0,68174.0,S,Heavy Turbolaser Battery-Turbolaser Battery-Point-Defense Laser Cannon Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Heavy Concussion Missile Battery,9350
+Star Galleon-class Frigate,1120.0,100.0,13.0,2.0,2.0,100000.0,150.0,S,Turbolaser Battery-Heavy Concussion Missiles,1180
+Star Saber XC-01,120.0,35.0,7.0,5.0,2.0,45.0,1.0,S,Heavy Laser Cannons,140
+Star Seeder-class Colony Ship,400.0,45.0,10.0,2.0,3.0,7500.0,169.0,N,Turbolaser Battery-Tractor Beam Battery,300
+StarForge Station,3000.0,200.0,16.0,1.0,6.0,25000000.0,1850.0,S,Turbolaser Battery,1750
+Starviper (Latest Model),140.0,20.0,7.0,5.0,1.0,1.0,1.0,S,Heavy Double Laser Cannons-Proton Torpedoes,320
+Stock Battlecruiser,2000.0,0,16.0,2.0,0,20000.0,20000.0,N,,0
+Stock Bomber,150.0,0,8.0,3.0,0,50.0,2.0,N,,0
+Stock Corvette,600.0,0,12.0,3.0,0,2000.0,50.0,N,,0
+Stock Cruiser,1500.0,0,14.0,2.0,0,10000.0,5000.0,N,,0
+Stock Frigate,800.0,0,12.0,2.0,0,5000.0,1000.0,N,,0
+Stock Gunship,150.0,0,12.0,3.0,0,5.0,4.0,N,,0
+Stock Heavy Freighter,400.0,0,12.0,1.0,0,100.0,10.0,N,,0
+Stock Interceptor,90.0,0,3.0,6.0,0,50.0,1.0,N,,0
+Stock Light fighter,60.0,0,3.0,5.0,0,50.0,2.0,N,,0
+Stock Light freighter,120.0,0,12.0,2.0,0,100.0,1.0,N,,0
+Stock Shuttle,120.0,0,12.0,3.0,0,20.0,4.0,N,,0
+Stock Superiority fighter,120.0,0,7.0,4.0,0,50.0,1.0,N,,0
+Strike-class Medium Cruiser,1200.0,125.0,14.0,3.0,2.0,9000.0,2112.0,S,Turbolaser Battery-Light Turbolaser Battery-Ion Cannon Battery-Tractor Beam Battery,3250
+Subjugator-class Heavy Cruiser,1750.0,130.0,13.0,2.0,2.0,13000.0,550.0,S,Heavy Turbolaser Battery-Medium Turbolaser Battery-Point-defense light laser cannon battery-Tractor Beam Battery-Ion Pulse Cannon,4200
+Supa Fighter,120.0,10.0,7.0,3.0,0,80.0,1.0,S,Double Medium Laser Cannons-Medium Ion Cannons-Medium Concussion Missiles,380
+Super Star Destroyer,3000.0,400.0,18.0,1.0,2.0,250000.0,280734.0,S,Heavy Turbolaser Battery-Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery-Heavy Concussion Missile Battery,8500
+Supremacy-class Attack Ship,1500.0,120.0,13.0,2.0,2.0,6000.0,1800.0,S,Light Double Turbolaser Battery-Heavy Ion Cannon Battery-Point-Defense Medium Laser Cannon Battery-Tractor Beam Battery,2260
+Surfeik Cruiser,1300.0,110.0,12.0,2.0,2.0,10000.0,500.0,S,Laser Cannon Battery-Projectile Launcher-Pseudograv Projector,700
+Tartan-class Patrol Cruiser,870.0,90.0,11.0,4.0,2.0,1000.0,70.0,S,Point-Defense Laser Cannon Battery,600
+Teroch-type Fast Attack Gunship,110.0,25.0,12.0,3.0,2.0,8.0,8.0,S,Double Laser Cannons,120
+Theta-class Shuttle,120.0,20.0,12.0,3.0,1.0,50.0,5.0,S,Quad Laser Cannon-Laser Cannons,200
+Tibanna Gas Hauler,150.0,20.0,13.0,2.0,0,150.0,1.0,N,,0
+TIE Aggressor,90.0,0,3.0,5.0,0,75.0,2.0,S,Laser Cannons-Laser Cannons-Concussion Missiles,380
+TIE Experimental M2,60.0,0,3.0,5.0,0,65.0,0.0,S,Turbolaser Cannons,150
+TIE Experimental M3,90.0,0,3.0,5.0,0,75.0,0.0,S,Concussion Missiles,180
+TIE Fighter,60.0,0,3.0,5.0,0,65.0,1.0,S,Laser Cannons,80
+TIE Interceptor,90.0,0,5.0,5.0,0,75.0,1.0,S,Laser Cannons,120
+TIE Interceptor. 181st Squadron,90.0,0,3.0,5.0,0,75.0,1.0,A,Laser Cannons,120
+TIE Oppressor,100.0,30.0,3.0,5.0,0,50.0,1.0,E,Medium Laser Cannons-Concussion Missiles,320
+TIE Phantom,75.0,20.0,3.0,5.0,6.0,90.0,2.0,S,Laser Cannons-Laser Cannons,180
+TIE Prototype,60.0,10.0,4.0,5.0,2.0,65.0,1.0,S,Laser Cannons-Concussion Missiles,240
+TIE Scout,110.0,0,7.0,3.0,3.0,25.0,1.0,S,Laser Cannons,60
+TIE Shuttle,120.0,0,5.0,3.0,0,1.0,1.0,S,Laser Cannons,60
+TIE/D Defender,100.0,30.0,4.0,8.0,2.0,65.0,1.0,E,Laser Cannons-Medium Ion Cannons-Proton Torpedoes,380
+TIE/sa Bomber,130.0,0,7.0,3.0,0,15.0,1.0,S,Laser Cannons-Medium Concussion Missiles,240
+TIE/x1 Advanced x1,90.0,20.0,3.0,5.0,4.0,150.0,1.0,E,Heavy Blaster Cannons,120
+TL-1800 Transport,120.0,30.0,12.0,2.0,2.0,110.0,2.0,N,Laser Cannon-Laser Cannon,160
+Toscan 8-Q Multipurpose Fighter,120.0,10.0,7.0,4.0,1.0,440.0,2.0,S,Laser Cannons-Medium Concussion Missiles,240
+Tri-Scythe-class Battle Cruiser,920.0,100.0,11.0,3.0,1.0,7000.0,1400.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery-Tractor Beam Battery-Proton Torpedo Battery,5440
+T-Wing Interceptor,70.0,10.0,3.0,6.0,1.0,50.0,1.0,S,Laser Cannons-Proton Torpedoes,260
+TYE-wing,60.0,0,3.0,5.0,0,65.0,1.0,S,Laser Cannons,80
+V-19 Torrent Starfighter,100.0,0,7.0,4.0,1.0,70.0,1.0,S,Laser Cannons-Medium Concussion Missiles,260
+V-19 Torrent Starfighter. Advanced,125.0,30.0,7.0,4.0,1.0,70.0,1.0,S,Laser Cannons-Medium Concussion Missiles,300
+Vaksai,120.0,15.0,7.0,4.0,0,95.0,1.0,S,Enhanced Medium Laser Cannons-Medium Concussion Missiles,280
+Vaya-class Scout Ship,90.0,35.0,11.0,3.0,4.0,60.0,3.0,N,Light Laser Cannon-Concussion Projectiles,160
+VCX-350 Light Freighter,150.0,30.0,13.0,3.0,1.0,250.0,3.0,S,Laser Cannons,80
+Venator-class Star Destroyer,1590.0,200.0,13.0,2.0,1.0,20000.0,7400.0,S,Heavy Turbolaser Battery-Medium Double Turbolasers-Point-Defense Laser Cannon Battery-Tractor Beam Battery-Proton Torpedoes,2480
+Victory I-class Star Destroyer,1200.0,150.0,12.0,1.0,1.0,8100.0,5200.0,S,Heavy Double Turbolaser Battery-Light Quad Turbolaser Battery-Heavy Concussion Missile Battery-Tractor Beam Battery,3750
+Victory II-class Star Destroyer,1380.0,150.0,12.0,2.0,1.0,6107.0,5200.0,S,Heavy Turbolaser Battery-Double Turbolaser Battery-Heavy Ion Cannon Battery-Tractor Beam Battery,3750
+Vindicator-class Heavy Cruiser,1800.0,150.0,15.0,2.0,2.0,8000.0,2551.0,S,Light Quad Turbolaser Battery-Light Turbolaser Battery-Point-Defense Laser Cannon Battery-Point-Defense Ion Cannon Battery-Tractor Beam Battery,2600
+Virago. The,140.0,40.0,7.0,5.0,1.0,1.0,1.0,S,Heavy Double Laser Cannons-Proton Torpedoes,320
+Visionary. The. Goto's Yacht,120.0,30.0,12.0,2.0,1.0,50.0,14.0,E,Medium Laser Cannon-Light Laser Cannon,160
+VT-49 Decimator,215.0,40.0,15.0,6.0,1.0,80.0,3.0,S,Laser Cannons-Laser Cannons-Medium Concussion Missiles,340
+Vulture-class Droid Starfighter. Droid,60.0,0,3.0,4.0,0,0,0.0,E,Laser Cannons-Concussion Missiles,240
+V-wing. Alpha-3 Nimbus,80.0,15.0,3.0,6.0,1.0,60.0,1.0,S,Laser Cannons,60
+Wayfarer-class Medium Transport,140.0,20.0,12.0,2.0,2.0,220.0,10.0,N,Quad Laser Cannons-Laser Cannons,200
+Wheel. The,2900.0,250.0,15.0,0.0,0,150000.0,10000.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery-Ion Cannon Battery-Tractor Beam Battery,4200
+X4 Gunship,150.0,20.0,13.0,3.0,3.0,20.0,8.0,S,Laser Cannons-Light Laser Cannons,140
+X-83 Twintail Starfighter,170.0,30.0,8.0,5.0,1.0,70.0,1.0,S,Enhanced Heavy Laser Cannons-Proton Torpedoes,360
+XQ2 Platform,2500.0,200.0,15.0,0.0,0,100000.0,1598.0,S,Turbolaser Battery-Point-Defense Laser Cannon Battery,1180
+X-ceptor. Ugly,140.0,0,6.0,4.0,1.5,110.0,1.0,S,Laser Cannons-Proton Torpedoes,300
+X-TIE,140.0,0,6.0,4.0,1.5,110.0,1.0,S,Laser Cannons,100
+X-Wing,120.0,15.0,7.0,4.0,1.0,110.0,1.0,S,Laser Cannons-Proton Torpedoes,300
+X-Wing. T-65BR,120.0,15.0,7.0,5.0,1.0,110.0,1.0,S,Laser Cannons,120
+X-Wing. T-65XJ3,150.0,30.0,8.0,4.0,1.0,35.0,1.0,S,Heavy Laser Cannons-Proton Torpedoes,340
+Y164 Thalassian Slave Transport,600.0,100.0,11.0,1.0,2.0,10.0,15.0,S,Quad Light Laser Cannon,100
+YE-4 Gunship,145.0,25.0,14.0,4.0,4.0,40.0,8.0,E,Medium Blaster Cannons (Battery),160
+YKL-37R Nova Courier,180.0,60.0,15.0,3.0,2.0,60.0,4.0,N,Laser Cannons-Medium Concussion Missiles,260
+YM-2800 Limpet Ship,120.0,10.0,12.0,2.0,0,125.0,6.0,S,Medium Laser Cannons-Plasma Beam Cutter,80
+YT-1250,120.0,30.0,14.0,2.0,2.0,80.0,2.0,S,Double Laser Cannon,80
+YT-1300 Transport,120.0,0,12.0,2.0,2.0,100.0,2.0,S,Laser Cannon,80
+YT-1930,150.0,15.0,13.0,3.0,2.0,200.0,2.0,S,Medium Laser Cannons,80
+YT-2000,180.0,30.0,15.0,3.0,2.0,115.0,4.0,S,Double Laser Cannon,100
+YT-2400,120.0,30.0,15.0,3.0,2.0,150.0,3.0,S,Laser Cannon,100
+YU-410 Light Freighter,120.0,20.0,12.0,2.0,2.0,250.0,4.0,N,Double Laser Cannon,100
+YV-545 Light Freighter,90.0,30.0,14.0,2.0,2.0,80.0,2.0,N,Double Lasers,80
+Y-Wing,120.0,25.0,7.0,4.0,1.0,110.0,2.0,S,Laser Cannons-Ion Cannons-Proton Torpedoes,340
+Y-Wing. BTL-A4 LP Longprobe,120.0,25.0,7.0,4.0,1.0,220.0,1.0,S,Laser Cannons-Ion Cannons-Proton Torpedoes,340
+Y-Wing. BTL-S1,110.0,10.0,3.0,3.0,2.0,130.0,2.0,S,Medium Laser Cannons-Double Light Ion Cannons-Proton Torpedoes,340
+Y-Wing. BTL-S3,120.0,25.0,7.0,4.0,1.0,110.0,2.0,S,Laser Cannons-Ion Cannons-Proton Torpedoes,340
+Y-Wing. BTL-S3 Courier,120.0,25.0,7.0,4.0,1.0,800.0,2.0,S,Laser Cannons-Proton Torpedoes,260
+YX-1980 Space Transport,150.0,40.0,13.0,3.0,2.0,110.0,2.0,S,Medium Laser Cannons,80
+YZ-2500 Heavy Transport,700.0,60.0,11.0,2.0,2.0,60000.0,10.0,S,Double Medium Turbolaser Battery-Heavy Laser Cannons,720
+YZ-775 Transport,650.0,90.0,11.0,3.0,1.0,400.0,8.0,S,Double Turbolasers-Double Laser Cannons-Proton Torpedoes,530
+Z-10 Seeker,90.0,0,6.0,3.0,1.0,45.0,1.0,N,Light Laser Cannons,60
+Z-95 Headhunter,120.0,15.0,7.0,4.0,0,85.0,1.0,S,Triple Light Blaster Cannons-Medium Concussion Missiles,200
+Zebra Starfighter,120.0,15.0,7.0,4.0,0,65.0,1.0,S,Heavy Laser Cannons,120
+48 Roller Wheel Bike,40.0,0,2.0,0,0,20.0,1.0,N,,0
+64-Y Swift 3 Repulsor Sled,32.0,0,1.0,0,0,4.0,1.0,E,Medium Blaster Cannon-Drop Net,90
+74-M Speeder Bike,40.0,0,1.0,0,0,10.0,1.0,S,Laser Cannon,16
+74-Z Speeder Bike,40.0,0,1.0,0,0,3.0,1.0,E,Laser Cannon,40
+9000 Z001 Landspeeder,40.0,0,1.0,0,0,30.0,1.0,N,,0
+9000 Z004 Landspeeder,40.0,0,1.0,0,0,30.0,1.0,N,,0
+A5 Juggernaut,320.0,0,14.0,0,0,1.0,8.0,0,Heavy Laser Cannons-Blaster Cannon-Grenade Launcher,204
+A-A5 Speeder Truck,100.0,0,13.0,0,0,25.0,3.0,0,,0
+AAT-1 (Armored Assault Tank),180.0,0,5.0,0,0,500.0,4.0,S,Heavy Laser Cannon-Light Blaster Cannons-Repeating Blaster Cannons-Missile Launcher,256
+Aerochaser Speeder Bike,30.0,0,1.0,0,0,4.0,1.0,0,,0
+Aerosled Mark III,32.0,0,1.0,3.0,0,24.0,1.0,S,Laser Cannon,40
+Air-2 Swoop,50.0,0,2.0,0,0,50.0,1.0,N,,0
+All-Terrain Roller,20.0,0,1.0,0,0,0,1.0,N,,0
+Armored Groundcar,140.0,0,6.0,0,0,300.0,3.0,0,Blaster Cannons,60
+Arrow-23 Landspeeder,120.0,0,5.0,0,0,800.0,2.0,0,Laser Cannon-Grenade Launcher,64
+AT-AA Anti-Aircraft Platform,210.0,0,13.0,0,0,250.0,3.0,N,Flak Pod-Light Missile Launcher,390
+AT-AHT (All-Terrain Armored Heavy Transport),350.0,0,17.0,0,0,2.0,5.0,E,Heavy Laser Cannons-Heavy Blaster Cannons,260
+AT-AP (All-Terrain Attack Pod),180.0,0,9.0,0,0,200.0,3.0,E,Mass Driver Cannon-Heavy Blaster Cannons-Medium Laser Cannon,280
+AT-AT (All-Terrain Armored Transport),300.0,0,16.0,0,0,1.0,5.0,E,Heavy Laser Cannons-Blaster Cannons,180
+AT-CT (All-Terrain Construction Transport),120.0,0,4.0,0,0,0,2.0,E,Tractor Beam,0
+AT-KT (All-Terrain Kashyyyk Transport),120.0,0,4.0,0,0,0,2.0,E,Frag Grenade-Stun Cannon,64
+AT-PT All-Terrain Personal Transport,120.0,0,4.0,0,0,150.0,1.0,S,Double Heavy Blaster Cannon-Grenade Launcher,148
+AT-RCT (All-Terrain Riot Control Transport),120.0,0,4.0,0,0,0,2.0,0,Double Medium Blaster Cannons-Suppression Cannons,180
+AT-RT (All-Terrain Recon Transport),60.0,0,4.0,0,0,20.0,1.0,S,Repeating Blaster Cannon,60
+AT-RT (DoD version),60.0,0,3.0,0,0,6.0,1.0,E,Laser Cannon-Mortar Launcher,58
+AT-RT. civilian model,60.0,0,4.0,0,0,20.0,1.0,S,Grenade Mortar,24
+AT-ST (All-Terrain Scout Transport),120.0,0,4.0,0,0,0,2.0,E,Twin Blaster Cannons-Twin Light Blaster Cannon-Grenade Launcher,164
+AT-TE (All-Terrain Tactical Enforcer),240.0,0,9.0,0,0,10.0,7.0,E,Rail Cannon-Medium Laser Cannons-Medium Laser Cannons-Medium Laser Cannons-Medium Laser Cannons-Medium Laser Cannons,450
+AT-XT (All-Terrain Experimental Transport),80.0,5.0,4.0,0,0,12.0,1.0,E,Double Laser Cannon-Twin Proton Grenade Launchers,128
+Atgar 1.4 FD P-Tower,80.0,0,3.0,0,0,0,4.0,S,Antivehicle Cannon,60
+AV-7 Antivehicle Cannon,80.0,0,3.0,0,0,0,1.0,S,Antivehicle Cannon,100
+Bantha-II Cargo Skiff,60.0,0,3.0,0,0,135.0,1.0,N,,0
+BARC Speeder,45.0,0,1.0,0,0,5.0,1.0,E,Twin Light Blaster Cannons,50
+Basilisk War Droid,70.0,0,3.0,3.0,0,100.0,1.0,S,Light Laser Cannons-Light Concussion Missiles-Pulse-wave Cannons-Space Mines,364
+Canderous-class Assault Tank,250.0,10.0,10.0,0,0,100.0,3.0,S,Heavy Laser Cannons-Concussion Missile Launcher,300
+Command Speeder. LAVr QH-7,120.0,0,7.0,0,0,200.0,3.0,S,Laser Cannon,60
+Compact Assault Vehicle/Wheeled PX-10,110.0,0,5.0,0,0,100.0,1.0,E,Medium Blaster Cannon,50
+Corona Limited Luxury Groundspeeder,90.0,0,3.0,0,0,300.0,1.0,S,,0
+CS-1 Cargo Sled,70.0,0,2.0,0,0,1.0,1.0,0,,0
+DC0052 Intergalactic Speeder,30.0,0,1.0,0,0,3.0,1.0,0,,0
+DF.9 Anti-Infantry Battery,120.0,0,4.0,0,0,0,3.0,S,Anti-infantry Cannon,80
+DP-2 Probe Droid,40.0,0,1.0,3.0,0,15.0,0.0,N,Blaster Cannon-Claw-Space Beacon Launcher,46
+Eeook Protector VI Patrol Speeder,75.0,0,3.0,3.0,0,0.5,1.0,S,Light Laser Cannon-Rocket Launcher,160
+F9-TZ Transport,90.0,10.0,6.0,0,0,1.0,2.0,S,,0
+FC-20 Speeder Bike,36.0,0,0.0,0,0,2.0,1.0,S,,0
+Flare-S Swoop,50.0,0,2.0,0,0,2.0,1.0,S,,0
+Flare-S Swoop. modified,50.0,5.0,2.0,0,0,2.0,1.0,S,,0
+FPC 6.7 Anti-Aircraft Battery,120.0,0,5.0,0,0,0,4.0,S,Anti-aircraft Laser Cannon,120
+Freeco Speeder,55.0,0,3.0,0,0,30.0,1.0,S,Dual Laser Cannons,50
+GPE-3300 Twin Engine Airspeeder,55.0,0,3.0,0,0,90.0,1.0,0,,0
+Grievous's Wheel Bike (Modified Tsmeu-6),50.0,0,4.0,0,0,5.0,1.0,E,Double Laser Cannon,50
+Ground Armored Tank,175.0,0,6.0,0,0,0,0.0,E,Medium Laser Cannons-Missile Launchers,128
+Groundcar,50.0,0,3.0,0,0,300.0,1.0,N,,0
+Heavy Tracker,200.0,0,14.0,0,0,250.0,6.0,S,Heavy Laser Cannon,100
+HSP-10 Pursuit Airspeeder,70.0,0,3.0,0,0,0.5,1.0,E,Double Laser Cannon-Ion Cannon,90
+HTT-26 Heavy Troop Transport,80.0,0,6.0,0,0,1.0,2.0,S,Medium Blaster Cannon,80
+IG-227 Hailfire-class Droid Tank,60.0,0,3.0,0,0,0,0.0,S,Missile Launchers-Laser Cannon,200
+Infantry Support Speeder Platform,50.0,0,3.0,0,0,55.0,2.0,E,Twin Blaster Cannons-Twin Blaster Cannons,160
+JG-8 Luxury Landspeeder,55.0,0,2.0,0,0,50.0,1.0,S,,0
+KAAC Freerunner,160.0,0,8.0,0,0,250.0,5.0,S,Laser Cannons-Blaster Cannons,140
+KDY V-150 Planet Defender,550.0,0,8.0,0,0,0,150.0,E,Surface-to-Space Ion Cannon,900
+Kybuck Speeder Bike,50.0,0,2.0,0,0,10.0,1.0,E,Laser Cannon,40
+LAAT/C Gunship (Low-Altitude Assault Transport/Carrier),150.0,15.0,13.0,3.0,0,40.0,1.0,E,Light Laser Cannons,60
+LAAT/i Gunship (Low Altitude Assault Transport/Infantry),160.0,15.0,13.0,3.0,0,2.0,6.0,E,Mass Driver Missile Launchers-Rocket Launcher-Anti-personnel Laser Cannons-Composite Beam Laser,290
+Lancet Aerial Artillery,120.0,0,6.0,0,0,850.0,2.0,S,Proton Beam Cannon-Laser Cannon,340
+Land Crawler,100.0,0,4.0,0,0,5.0,1.0,N,,0
+Landmaster,240.0,0,9.0,0,0,800.0,3.0,N,Medium Blaster Cannons,50
+Laser Borer,90.0,15.0,10.0,0,0,3.0,1.0,A,Claw-Laser Borer,148
+LR1K Sonic Antipersonnel Cannon,30.0,0,1.0,0,0,0,2.0,S,Sonic Cannon,160
+Manta Droid Subfighter,75.0,0,3.0,0,0,0,0.0,0,Laser Cannons-Torpedo Launchers,128
+Medlifter Troop Transport,50.0,0,3.0,0,0,1.0,2.0,S,,0
+Mobile Command Base. PX-4,270.0,0,10.0,0,0,1.0,3.0,S,Heavy Laser Cannon,80
+Mobile Recon/Research Vehicle,200.0,0,13.0,0,0,2.0,6.0,S,Quad Light Blaster Cannon,50
+Model 67 Shrieker Speeder Bike,40.0,0,1.0,0,0,2.0,1.0,S,,0
+MPTL-2a Mobile Proton Torpedo Launcher,100.0,0,8.0,0,0,600.0,3.0,S,Proton Torpedo Launcher,260
+MTT Multi-Troop Transport,240.0,0,10.0,0,0,12.0,4.0,0,Twin Blaster Cannons,60
+MUT Multi-Utility Transport,240.0,0,10.0,0,0,20.0,4.0,0,,0
+Nebulon-Q Swoop,20.0,0,0.0,0,0,2.0,1.0,S,,0
+Nightfalcon Speeder Bike,32.0,0,1.0,0,0,4.0,1.0,N,Laser Cannon,40
+Oevvaor Jet Catamaran,60.0,0,3.0,3.0,0,50.0,2.0,0,Blaster Cannon,30
+OG-9 Homing Spider Droid,70.0,0,5.0,0,0,0,0.0,S,Laser Cannon-Heavy Repeating Blaster Cannons,80
+Persuader-class Droid Enforcer (Corporate Alliance Tank Droid),120.0,0,5.0,0,0,0,0.0,S,Ion Cannons-Heavy Repeating Blaster Cannons-Missile Launcher,158
+PL-90 Luxury Speeder,70.0,0,3.0,0,0,30.0,1.0,S,,0
+Quickfire Speeder Bike,60.0,0,4.0,0,0,5.0,1.0,S,Blaster Cannon,30
+R-2000 Raptor Speeder Bike (modified),56.0,0,0.0,0,0,1.0,1.0,E,Laser Cannon,32
+Raddaugh Gnasp Fluttercraft (Ornithopter),40.0,0,1.0,3.0,0,3.0,2.0,S,Laser Cannon Tail Gun,40
+Rapid Deployment RaDAir Airspeeder,130.0,0,13.0,0,0,1.0,2.0,E,Double Laser Cannon-Double Blaster Cannon,90
+Republic Troop Transport,120.0,0,10.0,0,0,3.0,2.0,E,Laser Cannons-Missile Launcher,76
+Sandcrawler,250.0,0,15.0,0,0,3.0,10.0,0,,0
+Shelter Speeder,60.0,0,3.0,0,0,10.0,2.0,N,,0
+SkyBlind Landing Sphere,100.0,0,4.0,3.0,0,5.0,1.0,N,,0
+SPHA-C,360.0,0,15.0,0,0,500.0,25.0,E,Heavy Missile Launcher-Heavy Repeating Blaster Cannons,480
+SPHA-I,360.0,0,15.0,0,0,500.0,25.0,E,Heavy Ion Cannon-Heavy Repeating Blaster Cannons,180
+SPHA-M,360.0,0,15.0,0,0,500.0,25.0,E,Mass Driver Cannon-Heavy Repeating Blaster Cannons,170
+SPHA-T,360.0,0,15.0,0,0,500.0,25.0,E,Heavy Turbolaser-Heavy Repeating Blaster Cannons,380
+SPHA-V,360.0,0,15.0,0,0,500.0,25.0,E,Heavy Laser Cannon-Heavy Repeating Blaster Cannons,130
+SRV-1 Scout and Retrieval Vehicle,140.0,0,4.0,0,0,3.0,3.0,S,Medium Blaster Cannon,40
+STAP Single Trooper Aerial Platform,15.0,0,2.0,0,0,0,1.0,S,Twin Blaster Cannons,40
+Storm IV Twin-Pod Cloud Car,80.0,0,5.0,6.0,0,10.0,2.0,S,Double Blaster Cannon,50
+Swift Assault 5 Hovercraft,150.0,20.0,10.0,0,0,50.0,4.0,E,Double Blaster Cannon-Double Laser Cannon-Concussion Missile Launcher,172
+Swoop Racer,40.0,0,1.0,0,0,2.0,1.0,S,,0
+T2-B Repulsor Tank,100.0,10.0,4.0,0,0,200.0,3.0,S,Quad Light Blaster Cannon,80
+T-47 Airspeeder (modified),60.0,0,2.0,4.0,0,50.0,2.0,S,Double Laser Cannon-Blaster Cannon-Harpoon Gun,80
+T4-B Heavy Tank,200.0,0,9.0,0,0,300.0,3.0,S,Heavy Laser Cannons-Triple Concussion Missile Launcher,260
+T8 Loading Vehicle,60.0,0,1.0,0,0,50.0,1.0,N,,0
+Talon I Cloud Car,110.0,0,7.0,6.0,0,50.0,1.0,S,Double Blaster Cannon,80
+Tibanna Gas Refinery Platform,40.0,10.0,5.0,0.0,0,20.0,1.0,N,Blaster Cannons,40
+TIE ap-1 Mauler,70.0,0,4.0,0,0,95.0,1.0,S,Triple Medium Blaster Cannons,120
+TIE Crawler,60.0,0,4.0,0,0,65.0,1.0,S,Light Turbolaser Cannon-Medium Blaster Cannons,155
+Trade Federation Troop Carrier,120.0,0,8.0,0,0,4.0,2.0,S,,0
+Tri-Droid,160.0,0,8.0,0,0,0,0.0,S,Heavy Ordinance Launcher,250
+Tsmeu-6 Personal Wheel Bike,50.0,0,4.0,0,0,10.0,1.0,E,,0
+TT-6 Landspeeder,45.0,0,1.0,0,0,40.0,1.0,0,,0
+Twin-228 Airspeeder,60.0,0,3.0,0,0,60.0,1.0,S,,0
+TX-130T Fighter Tank,120.0,5.0,5.0,0,0,100.0,2.0,0,Laser Cannons-Medium Concussion Missiles,220
+TX-130T Saber-class Fighter Tank,120.0,5.0,5.0,0,0,750.0,3.0,0,Laser Cannons-Twin Medium Laser Cannons-Missile Launcher-Composite Beam Cannon,278
+Ultra-Light Assault Vehicle (ULAV),60.0,0,3.0,0,0,25.0,2.0,S,Double Light Laser Cannon-Concussion Grenade Launcher-Heavy Blaster Cannon,228
+UR-40M Patrol Speeder,75.0,0,3.0,0,0,60.0,1.0,S,Blaster Cannon,30
+Urban Bombadier Speeder Bike,35.0,0,1.0,0,0,10.0,1.0,S,Laser Cannon-Light Concussion Missiles,36
+Urban Navigator Speeder Bike,35.0,0,1.0,0,0,10.0,1.0,0,,0
+UT-AT (Unstable Terrain),200.0,0,10.0,0,0,26.0,6.0,E,Heavy Laser Cannon-Bomblet Generators-Medium Laser Cannons-Medium Laser Cannons-Heavy Repeating Blaster Cannons-Heavy Repeating Blaster Cannons,364
+V-35 Courier,40.0,0,1.0,0,0,50.0,1.0,0,,0
+Veltiss-2 Airspeeder,50.0,0,2.0,0,0,30.0,1.0,0,,0
+Wind Skiff,40.0,0,2.0,0,0,900.0,1.0,0,Debris Clearing Laser Cannon,30
+WLO-5 Speeder Tank,150.0,0,8.0,3.0,0,150.0,3.0,S,Heavy Laser Cannon,240
+X-34 Landspeeder,40.0,0,1.0,0,0,30.0,1.0,0,,0
+X-34 Landspeeder. Modified,40.0,0,1.0,0,0,30.0,1.0,E,Laser Cannon,40
+Zephyr-G Swoop,50.0,0,2.0,0,0,0,1.0,0,,0
+Zephyr-G Swoop. modified,50.0,0,2.0,0,0,100.0,1.0,0,,0
